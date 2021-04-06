@@ -1,7 +1,7 @@
 # Machine_ model_on_MovieLens
  Building a Factorization Machines model on MovieLens
  
-This code is for windows but first you have to download wget from this 
+for windows user first you have to download wget from this 
 link(https://eternallybored.org/misc/wget/) and install. for installation pls follow the 
 link video (https://www.jcchouinard.com/wget/).
   !wget http://files.grouplens.org/datasets/movielens/ml-100k.zip
